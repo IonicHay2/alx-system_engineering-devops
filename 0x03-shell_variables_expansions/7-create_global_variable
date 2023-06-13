@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "export BEST=School" >> environment.sh
+printenv "BEST=School"
